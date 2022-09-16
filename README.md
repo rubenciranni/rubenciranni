@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rubenciranni
 - 👀 I’m interested in Computer Science, Music, Mathematics.
-- 🌱 I’m currently a secondyear Computer Science student at "Sapienza University of Rome"
+- 🌱 I’m currently a second year Computer Science student at "Sapienza University of Rome"
 
 
 <!---
