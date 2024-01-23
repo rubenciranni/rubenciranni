@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rubenciranni
 - 👀 Computer Science, AI, Music, Mathematics.
 - 🌱 Third year Computer Science & AI student at Sapienza University of Rome.
-- 👨‍💻 Software Development Engineer Intern at Amazon.
+- 👨‍💻 Former Software Development Engineer Intern at Amazon.
 
 
 <!---
