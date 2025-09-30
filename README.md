@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rubenciranni
 - 👀 Computer Science, AI, Music, Mathematics.
-- 🌱 First year master's student in Computer Science at ETH Zurich.
-- 👨‍💻 Former Software Development Engineer Intern at Amazon.
+- 🌱 Second year master's student in Computer Science at ETH Zurich.
+- 👨‍💻 Former Software Development Engineer Intern at Amazon and Citadel.
 
 
 <!---
